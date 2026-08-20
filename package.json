@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Lipila STK Push backend server",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
